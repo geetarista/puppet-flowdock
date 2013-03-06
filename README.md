@@ -1,4 +1,4 @@
-# Flowdock Puppet Module for Boxen
+# Flowdock Puppet Module for Boxen ![Build Status](https://travis-ci.org/geetarista/puppet-flowdock.png)
 
 Installs the Flowdock Mac app.
 
